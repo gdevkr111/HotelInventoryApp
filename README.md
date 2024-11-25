@@ -1,1 +1,1 @@
-# HotelInventoryApp
+# HotelInventoryApps
